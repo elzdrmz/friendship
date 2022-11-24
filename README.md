@@ -8,7 +8,7 @@ The ID of the user to be friended with.
 # Technologies
 
 Project is created with:
-* visual Studio 2022 version 17.4
+* Visual Studio 2022 version 17.4
 
 # Dataset
 
@@ -19,6 +19,36 @@ where user1 represents the ID of the first user, user2 represents the ID of the 
 user and \t is the tab character:
 
 user1\tuser2
+
+# Example
+        
+Dataset :
+user1 :
+ 1    
+ 1    
+ 1    
+ 3 
+ 3 
+ 4 
+ 4 
+ 5 
+ 8 
+ 6 
+ 
+ user2: 
+  3
+  4
+  5
+  8
+  6
+  6
+  7
+  7
+  2
+  2
+
+If input is 1 the program listing like that 1-3-6, 1-3-8, 1-4-6, 1-4-7, 1-5-7 and in such a scenario, ID 6 and ID 7 will be the friends to be
+suggested for ID 1.
 
 # Test
 
@@ -40,36 +70,6 @@ If ID is in data but no friend to suggest:
 Example ID 77 friend recommendation is  ID 280 
 
 <img width="259" alt="image" src="https://user-images.githubusercontent.com/74271265/203779042-6b7b9574-619d-434b-8060-12bd79e86854.png">
-
-# More Example
-        
-Dataset :
-user1 
- 1    
- 1    
- 1    
- 3 
- 3 
- 4 
- 4 
- 5 
- 8 
- 6 
- 
- user2
-  3
-  4
-  5
-  8
-  6
-  6
-  7
-  7
-  2
-  2
-
-If input is 1 the program listing like that 1-3-6, 1-3-8, 1-4-6, 1-4-7, 1-5-7 and in such a scenario, ID 6 and ID 7 will be the friends to be
-suggested for ID 1.
 
 
                                             
