@@ -1,17 +1,18 @@
 1101231
-*****
+There is no such user.
 33
-*****
+There is no friend to suggest.
 275
-*****
+78, 195
 77
-*****
+280
 250
-*****
+21, 25,  26,  122, 142, 169,  170, 186, 199, 211 ,260, 261,268, 271, 285, 308, 315, 332
 14000
-*****
+There is no friend to suggest.
 15000
-*****
+There is no friend to suggest.
 16000
-*****
+There is no friend to suggest.
 17000
+There is no friend to suggest.
