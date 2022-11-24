@@ -2,8 +2,8 @@
 
 # About
 
-This project was written using the c++ language, it is a single input prompt containing an integer corresponding to a friend's recommendation:
-The ID of the user to be friended with.
+This project was written using the c++ language. The program is prompt for a single input, which is an integer that corresponds to
+the ID of the user, to whom the friend suggestion will be made. Output is suggested friend or friends ID.
 
 # Technologies
 
