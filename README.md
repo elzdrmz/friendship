@@ -43,8 +43,8 @@ Example ID 77 friend recommendation is  ID 280
 
 # More Example
         
-Dataset :user1 user2
-          1     3
+Dataset :user1--- user2
+          1 ---    3
           1     4
           1     5
           3     8
