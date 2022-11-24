@@ -43,17 +43,30 @@ Example ID 77 friend recommendation is  ID 280
 
 # More Example
         
-Dataset :user1--- user2
-          1 ---    3
-          1     4
-          1     5
-          3     8
-          3     6
-          4     6
-          4     7
-          5     7
-          8     2
-          6     2
+Dataset :
+user1 
+ 1    
+ 1    
+ 1    
+ 3 
+ 3 
+ 4 
+ 4 
+ 5 
+ 8 
+ 6 
+ 
+ user2
+  3
+  4
+  5
+  8
+  6
+  6
+  7
+  7
+  2
+  2
 
 If input is 1 the program listing like that 1-3-6, 1-3-8, 1-4-6, 1-4-7, 1-5-7 and in such a scenario, ID 6 and ID 7 will be the friends to be
 suggested for ID 1.
