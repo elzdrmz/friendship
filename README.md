@@ -57,7 +57,7 @@ If ID is in data but no friend to suggest:
 
 <img width="245" alt="image" src="https://user-images.githubusercontent.com/74271265/203777658-a24a0d2b-728c-43ac-91c4-83eebe1d1866.png">
 
-Example ID 77 friend recommendation is  ID 280 
+Example ID 77 friend suggested is  ID 280 
 
 <img width="259" alt="image" src="https://user-images.githubusercontent.com/74271265/203779042-6b7b9574-619d-434b-8060-12bd79e86854.png">
 
