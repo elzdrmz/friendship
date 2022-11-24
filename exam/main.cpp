@@ -175,7 +175,7 @@ int main() {
         cout << "There is no such user." << endl;
     }
 
-    
+    mylist->friends_list.sort();
     for (mylist->it = mylist->friends_list.begin(); mylist->it != mylist->friends_list.end(); ++mylist->it) {
       
         arr.push_back(*mylist->it);
