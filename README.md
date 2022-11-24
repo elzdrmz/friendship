@@ -23,17 +23,7 @@ user1\tuser2
 # Example
         
 Dataset :
-user1 :
- 1    
- 1    
- 1    
- 3 
- 3 
- 4 
- 4 
- 5 
- 8 
- 6 
+user1 : 1 1 1 3 3 4 4 5 8 6 
  
  user2: 
   3
